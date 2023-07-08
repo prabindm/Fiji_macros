@@ -87,5 +87,9 @@ function processFile(input, output, file) {
 	
 
 ```
+This is the final output of the image.
+
+[<img src="[img/myImage.png](https://github.com/prabindm/Fiji_macros/blob/main/pdm_4014_slide4_ch4_001.nd2Montage.jpg)">]
+
 
 [Fiji]: https://imagej.net/software/fiji/
