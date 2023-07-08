@@ -2,7 +2,7 @@
 
 [Fiji] is a powerful image analysis software, used worldwide by researchers for variour purposes. It is an wonderful GUI which most people use, but we can also use scripting/macro to automate repeatative tasks. This repository is for those tasks. 
 
-## 1. Make publication figures
+### 1.  Make publication figures
 This is a simple task where we take the immunofluorescence images and do 3 things.
 1. Adjust the brightness in each channel so that the markers are clearly visibile to naked eye in a pdf.
 2. Delete a channel/layer/color of the image we are not interested in.
