@@ -92,7 +92,14 @@ This is the final output of the image.
 
 <image src = "pdm_4014_slide4_ch4_001.nd2Montage.jpg">
 
+### 2. Quantify Live cells from cell suspension
+We needed to quantify the live cells from a cell suspension of primary cells derived from mouse mammary gland. These cells were to be used in the Fluidigm C1 platform for scRNA-seq, so we wanted to be sure the cells were > 90% live after a prolonged cell isolation process. The cell suspension was stained in [Biotium Live/Dead Kit], which uses calcein to stain the live cells green and the PI which stains the dead cells green. 
+
+```{jpython}
+code goes here.
+```
 
 
 
 [Fiji]: https://imagej.net/software/fiji/
+[Biotium Live/Dead Kit]: https://biotium.com/product/live-or-dye-fixable-viability-staining-kit/
