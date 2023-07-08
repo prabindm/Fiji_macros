@@ -1,5 +1,5 @@
 # Fiji_macros
 
-Fiji[1] is a powerful image analysis software, used worldwide by researchers for variour purposes. 
+[Fiji] is a powerful image analysis software, used worldwide by researchers for variour purposes. It is an wonderful GUI which most people use, but we can also use scripting/macro to automate repeatative tasks. This repository is for those tasks. 
 
-[1]: https://imagej.net/software/fiji/
+[Fiji]: https://imagej.net/software/fiji/
