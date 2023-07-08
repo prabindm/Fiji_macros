@@ -8,7 +8,8 @@ This is a simple task where we take the immunofluorescence images and do 3 thing
 2. Delete a channel/layer/color of the image we are not interested in.
 3. Crop the image to a smaller size. We would like to select which portion of the image we want to have in our publication, so the cropping event should be interactive.
 4. Use the smaller image and create a montage of all the remaining channels.
-5. We want to direct the input and output directories and do the above changes only to the `.nd2` files that we collected from NIKON Confocal microscope.
+5. We would like this to be saved as a `tif` file. 
+6. We want to direct the input and output directories and do the above changes only to the `.nd2` files that we collected from NIKON Confocal microscope.
 ```{jpython}
 /*
  * //Macro template to process multiple images in a folder
@@ -89,7 +90,9 @@ function processFile(input, output, file) {
 ```
 This is the final output of the image.
 
-[<img src="[img/myImage.png](https://github.com/prabindm/Fiji_macros/blob/main/pdm_4014_slide4_ch4_001.nd2Montage.jpg)">]
+[<image src = "pdm_4014_slide4_ch4_001.nd2Montage.jpg">]
+
+
 
 
 [Fiji]: https://imagej.net/software/fiji/
