@@ -90,7 +90,7 @@ function processFile(input, output, file) {
 ```
 This is the final output of the image.
 
-[<image src = "pdm_4014_slide4_ch4_001.nd2Montage.jpg">]
+<image src = "pdm_4014_slide4_ch4_001.nd2Montage.jpg">
 
 
 
